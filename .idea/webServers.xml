@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="64bb6632-e2da-4659-b3c9-a9c943b1bfcf" name="windows server" url="https://hui.zhaochenkai.cn/">
+        <fileTransfer host="119.28.27.216" port="21" rootFolder="/wit_and_eloquence">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
